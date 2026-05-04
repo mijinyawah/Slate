@@ -1,6 +1,6 @@
 # Slate
 
-Slate is a lightweight desktop note-taking app. Local-first, no accounts, no noise — just you and your notes.
+Slate is a lightweight desktop note-taking app. Local-first, no accounts, no noise — just you and your notes. Vibe coded with Claude and Codex.
 
 ## Features
 
