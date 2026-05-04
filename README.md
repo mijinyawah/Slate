@@ -1,20 +1,19 @@
 # Slate
 
-Lightweight desktop note-taking app built with Tauri + SvelteKit.
+Slate is a lightweight desktop note-taking app. Local-first, no accounts, no noise — just you and your notes.
 
-Slate is local-first, fast to open, and intentionally minimal.
+## Features
 
-## Highlights
+**Rich text that covers the basics**
+Paragraph, H1–H4, bullets, numbered lists, blockquote, code block, divider. Accessible via toolbar or keyboard. Nothing you won't use.
 
-- Rich writing support: paragraph, H1-H4, blockquote, bullets, numbered lists, code blocks, divider
-- Two toolbar modes: always visible or selection-only floating menu
-- Autosave + undo/redo support
-- Trash + restore + permanent delete confirmation
-- Theme presets + custom theme JSON import/export
-- Dark/light toggle + pin window always-on-top
-- Sidebar search + note sort controls
+**Stays out of the way**
+Pin to always-on-top so it floats above your other windows. Toggle dark/light mode. Everything autosaves. Undo/redo works like you'd expect.
 
-## Storage
+**Your notes, your files**
+Notes are stored as plain files on your machine — no account, no sync, no cloud dependency. Readable by any text editor if you ever want to leave.
+
+## Note Storage
 
 Notes are saved locally in your Documents folder:
 
@@ -35,6 +34,9 @@ No account required. No cloud sync in this phase.
 - `Cmd/Ctrl + K` link
 - `Cmd/Ctrl + Z` undo
 - `Cmd/Ctrl + Shift + Z` redo
+
+**Built by a vibe coder for other vibe coders. Make it yours!**
+Fork the project and have fun!
 
 ## Run locally
 
